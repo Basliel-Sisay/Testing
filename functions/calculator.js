@@ -24,3 +24,4 @@ function calc(a,b, operator){
         throw new Error('you have entered invalid operator');
     }
 }
+module.exports= calc;
