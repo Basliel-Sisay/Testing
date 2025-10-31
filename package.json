@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basliel-Sisay/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Basliel-Sisay/Testing/issues"
+  },
+  "homepage": "https://github.com/Basliel-Sisay/Testing#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
