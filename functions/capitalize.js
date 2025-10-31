@@ -6,3 +6,4 @@ function capital(word){
     // return the full word 
     return firstWord + otherWords;
 }
+module.exports=capital;
