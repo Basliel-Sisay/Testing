@@ -77,6 +77,11 @@ Through this project, the following skills and concepts were practiced and reinf
 
 - Debugging test failures and interpreting error messages
 
+ <h2> 📝LICENSE</h2>
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
 <h2> 👨‍💻 Author</h2>
 
 - [Basliel-Sisay](https://github.com/Basliel-Sisay)
